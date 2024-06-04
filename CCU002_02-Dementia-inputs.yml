@@ -1,0 +1,102 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/ccu002_02-dementia-delirium---secondary.py
+inputModule3:
+  class: File
+  path: python/ccu002_02-dementia-alzheimer---secondary.py
+inputModule4:
+  class: File
+  path: python/ccu002_02-dementia-dementium---secondary.py
+inputModule5:
+  class: File
+  path: python/ccu002_02-dementia-declined---secondary.py
+inputModule6:
+  class: File
+  path: python/ccu002_02-dementia-presenile---secondary.py
+inputModule7:
+  class: File
+  path: python/ccu002_02-dementia-uncomplicated---secondary.py
+inputModule8:
+  class: File
+  path: python/ccu002_02-dementia---secondary.py
+inputModule9:
+  class: File
+  path: python/ccu002_02-dementia-gerstmannstraussler-scheinker---secondary.py
+inputModule10:
+  class: File
+  path: python/nonfamilial-ccu002_02-dementia---secondary.py
+inputModule11:
+  class: File
+  path: python/frontotemporal-ccu002_02-dementia---secondary.py
+inputModule12:
+  class: File
+  path: python/subcortical-ccu002_02-dementia---secondary.py
+inputModule13:
+  class: File
+  path: python/ccu002_02-dementia-creutzfeldtjakob---secondary.py
+inputModule14:
+  class: File
+  path: python/ccu002_02-dementia-invitation---secondary.py
+inputModule15:
+  class: File
+  path: python/ccu002_02-dementia-picks---secondary.py
+inputModule16:
+  class: File
+  path: python/ccu002_02-dementia-agreed---secondary.py
+inputModule17:
+  class: File
+  path: python/ccu002_02-dementia-depression---secondary.py
+inputModule18:
+  class: File
+  path: python/ccu002_02-dementia-review---secondary.py
+inputModule19:
+  class: File
+  path: python/ccu002_02-dementia-associated---secondary.py
+inputModule20:
+  class: File
+  path: python/ccu002_02-dementia-paranoia---secondary.py
+inputModule21:
+  class: File
+  path: python/ccu002_02-dementia-disturbance---secondary.py
+inputModule22:
+  class: File
+  path: python/degenerative-ccu002_02-dementia---secondary.py
+inputModule23:
+  class: File
+  path: python/ccu002_02-dementia-parkinsons---secondary.py
+inputModule24:
+  class: File
+  path: python/ccu002_02-dementia-letter---secondary.py
+inputModule25:
+  class: File
+  path: python/frontal-ccu002_02-dementia---secondary.py
+inputModule26:
+  class: File
+  path: python/ccu002_02-dementia-quality---secondary.py
+inputModule27:
+  class: File
+  path: python/ccu002_02-dementia-prion---secondary.py
+inputModule28:
+  class: File
+  path: python/progressive-ccu002_02-dementia---secondary.py
+inputModule29:
+  class: File
+  path: python/ccu002_02-dementia-advance---secondary.py
+inputModule30:
+  class: File
+  path: python/mixed-ccu002_02-dementia---secondary.py
+inputModule31:
+  class: File
+  path: python/vascular-ccu002_02-dementia---secondary.py
+inputModule32:
+  class: File
+  path: python/ccu002_02-dementia-multiinfarct---secondary.py
+inputModule33:
+  class: File
+  path: python/arteriosclerotic-ccu002_02-dementia---secondary.py
+inputModule34:
+  class: File
+  path: python/output-cases.py
